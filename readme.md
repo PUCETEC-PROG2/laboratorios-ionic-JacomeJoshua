@@ -2,9 +2,9 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
+- **Nombre:** [Joshua Jacome]
+- **Carrera:** [Tec.Desarrollo de Software]
+- **Fecha de inicio:** [11/07/2026]
 
 ---
 
